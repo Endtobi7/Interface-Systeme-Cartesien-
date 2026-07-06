@@ -7,7 +7,7 @@ Interface web de contrôle pour un traceur cartésien (CNC pen plotter) à 3 axe
 </p>
 
 <p align="center">
-  <em>Prototype physique du traceur cartésien réalisé dans le cadre du projet</em>
+  <em>Interface de controle du traceur cartésien réalisé dans le cadre du projet</em>
 </p>
 
 ---
