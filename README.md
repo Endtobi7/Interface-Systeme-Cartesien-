@@ -51,6 +51,15 @@ le tout via une interface web moderne, réactive et animée, connectée en temps
 
 La page d'accueil ne montre pas une simple photo statique : c'est une **animation en temps réel** du plotteur, reconstruite à partir de calques PNG transparents qui se déplacent exactement comme les pièces mobiles de la vraie machine.
 
+<p align="center">
+  <img src="docs/screenshots/06-integration.png" alt="anim" width="700"/>
+</p>
+
+<p align="center">
+  <em>animation images</em>
+</p>
+
+
 ### Principe
 
 Le modèle 2D est découpé en **couches empilées** (`z-index`), chacune correspondant à un sous-ensemble mécanique réel :
