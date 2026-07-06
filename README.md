@@ -3,7 +3,7 @@
 Interface web de contrôle pour un traceur cartésien (CNC pen plotter) à 3 axes, basé sur GRBL. L'application communique directement avec la carte contrôleur via le **Web Serial API**, sans backend ni installation de driver supplémentaire.
 
 <p align="center">
-  <img src="docs/screenshots/01-acceuil.png" alt="Machine DRAWBOT physique" width="700"/>
+  <img src="docs/screenshots/01-accueil.png" alt="Machine physique" width="700"/>
 </p>
 
 <p align="center">
